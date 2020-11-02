@@ -1,0 +1,85 @@
+{
+  "main": {
+    "id": "87ffb572d847612e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c03e80bb5414dc8",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "python_import語句.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ded115f74a66867b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7145e4f9cbe29aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bae6df5c978c796",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ce6aa6f1a8b4f4d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b1361b30c56a0173",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfc97c90d73e3bfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c0262e7b99c38ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "python_import語句.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "python_import語句.md",
+    "python_if語句.md",
+    "python_for語句.md",
+    "Markdown語法.md",
+    "副檔名.md"
+  ]
+}
