@@ -10,6 +10,11 @@
     "command-palette": true,
     "markdown-importer": true,
     "word-count": true,
-    "custom-css": true
+    "custom-css": true,
+    "translucency": false,
+    "slides": true,
+    "outline": true,
+    "page-preview": true,
+    "workspaces": true
   }
 }
