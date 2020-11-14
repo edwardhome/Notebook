@@ -1,5 +1,5 @@
 # import 的用法
-在python裡面，如果要匯入相關的函式或已經由第三方開發者開發的套件庫，可使用`import`的方式匯入
+在python裡面，如果要匯入相關的函式或已經由第三方開發者開發的套件庫，可使用`import`的方式匯入，而套件要如何安裝，則可使用[conda](conda用法)或pip指令進行安裝
 
 ## import 使用情境
 準備建立稍大型的專案的時候，學習如何組織化你的 Python 專案是一大要點。Python 提供的 `module`（模組）與 `package`（套件）是建立架構的基本元件，但在`module`之間為了重複使用一些 `function`（函數）或 [`class`](python_class語句)（類別）而必須互相 `import`（匯入），使用上一個不注意就會掉入混亂的 import 陷阱。

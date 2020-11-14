@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "19a2689b571eab82",
+        "id": "c7bc2f79f7b30604",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "詠筑的個人目標.md",
-            "mode": "preview"
+            "file": "使用openCV.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#python"
+                "query": "tag:#機器視覺"
               }
             }
           }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "詠筑的個人目標.md"
+                "file": "使用openCV.md"
               }
             }
           },
@@ -74,27 +74,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "詠筑的個人目標.md"
+                "file": "使用openCV.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 272,
-    "collapsed": true
+    "width": 272
   },
   "lastOpenFiles": [
+    "使用openCV.md",
+    "conda用法.md",
+    "picture/conda_version.jpg",
     "Untitled.md",
     "Markdown語法.md",
-    "python_if語句.md",
-    "python_比較運算子.md",
-    "python_import語句.md",
+    "副檔名.md",
     "使用Python的基本概念.md",
-    "python_for語句.md",
-    "python_class語句.md",
+    "python_import語句.md",
     "python_with語句.md",
-    "副檔名.md"
+    "python_if語句.md"
   ]
 }
