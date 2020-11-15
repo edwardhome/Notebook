@@ -135,5 +135,4 @@ cv2.destroyWindow('Title') #填入指定的視窗名稱
 cv2.imwrite('path/name.jpg',var)
 ```
 依序填入儲存位置，及陣列變數名稱，即可針對影像進行儲存
-
 #python #OpenCV #程式設計 
