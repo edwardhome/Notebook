@@ -115,6 +115,7 @@ cv2.waitKey(0)
 ```
 
 顯示結果如下：
+![顯示結果](https://github.com/edwardhome/Notebook/blob/main/picture/imshow_test.jpg?raw=true)
 
 
 #python #OpenCV #程式設計 
