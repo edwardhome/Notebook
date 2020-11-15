@@ -85,6 +85,7 @@ print(C_size)
 (316, 316, 3)
 ```
 這裡使用的圖片是大名鼎鼎的萊娜圖
+
 ![萊娜圖](https://upload.wikimedia.org/wikipedia/zh/3/34/Lenna.jpg)
 從上述的程式碼中可以發現，由於檔案的[副檔名](副檔名)是`jpg`的格式，因此本身就已經移除透明度的資料，也因此這裡用`cv2.IMREAD_COLOR`與`cv2.IMREAD_UNCHANGED`的結果，最終的陣列大小都是一樣**(316×316×3)** 的大小，而使用`cv2.IMREAD_GRAYSCALE`的陣列大小就僅有二維，這是因為取值僅取得明度的部分，也因此每一個像素僅只有一個強度值，故最後大小呈現二維的陣列。
 
@@ -116,6 +117,22 @@ cv2.waitKey(0)
 
 顯示結果如下：
 ![顯示結果](https://github.com/edwardhome/Notebook/blob/main/picture/imshow_test.jpg?raw=true)
+#### 關閉視窗設定
+當開啟多個視窗可利用下列指令來控制關閉的條件
+```py
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+```
+利用這組指令，當按下任意鍵後則會自動關閉所有視窗，若希望可以一時間按照順序關閉指定圖片可利用下列指令進行控制：
+```py
+cv2.waitKey(0)
+cv2.destroyWindow('Title') #填入指定的視窗名稱
+```
 
-
+### 儲存影像
+最後當我們對影像處理完成後，希望儲存一個新的影像檔案，可利用下列指令進行影像儲存的動作
+```py
+cv2.imwrite('path/name.jpg',var)
+```
+依序填入儲存位置，及陣列變數名稱，即可針對影像進行儲存
 #python #OpenCV #程式設計 
