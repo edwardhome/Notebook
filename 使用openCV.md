@@ -19,7 +19,46 @@ OpenCV的應用其實很廣，在許多的 #程式設計 上均有OpenCV的蹤�
 	- 動作識別
 	- 汽車安全駕駛
 	- 結構分析
-	
 實務上具有許多操作是混和使用，應用上也十分複雜。
 
+##  安裝OpenCV
+以下內容均利用`python`進行操作，主要可分為`pip`與[`conda`](conda用法)兩種，分別指令如下。
+### pip 套件管理器
+```shell
+pip install opencv-python
+```
+這裡會自動下載[pypi](https://pypi.org/project/opencv-python/)的最新套件內容，這個函數是目前穩定的相關內容，已經驗證過的算式會放入這裡，如果想要使用最新的套件及開發中的套件包，可以安裝這下列版本。
+```shell
+pip install opencv-contrib-python
+```
+其詳細解說如[網站](https://pypi.org/project/opencv-contrib-python/)所述。
 
+### conda 套件安裝管理
+指令如下，會從[conda套件庫](https://anaconda.org/anaconda/opencv)下載目前的版本。
+```shell
+conda install opencv
+```
+其中，利用`pip`與`conda`下載的版本會略有落差，使用實際得特別注意版本差異。
+
+## 匯入OpenCV
+在python中，[匯入](python_import語句)OpenCV程式碼如下所示：
+```py
+import cv2 
+```
+由於python是物件導向的程式語言，因此操作上都是利用`cv2`這個做為開頭，進行OpenCV的一系列函數操作。
+
+## 基本功能
+### 讀取影像
+```py
+cv2.imread('path/image.png',flag)
+```
+其中`flag`可以用下列參數作為輸入
+- cv2.IMREAD_COLOR(可用`1`代替)
+	- 此為預設值，會載入影片的RGB數據，忽略透明度
+- cv2.IMREAD_GRAYSCALE(可用`0`代替)
+	- 直接將影像轉為灰階圖片
+- cv2.IMREAD_UNCHANGED(可用`-1`代替)
+	- 包含透明度在內的所有資訊均轉入數據
+
+範例示範
+#python #OpenCV #程式設計 
