@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c7bc2f79f7b30604",
+        "id": "6e1310e06f6343ad",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Laplacian邊緣偵測.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -63,9 +60,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Laplacian邊緣偵測.md"
-              }
+              "state": {}
             }
           },
           {
@@ -73,9 +68,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Laplacian邊緣偵測.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -86,15 +79,15 @@
     "width": 272
   },
   "lastOpenFiles": [
-    "Laplacian邊緣偵測.md",
+    "使用Python.md",
+    "使用openCV.md",
+    "conda用法.md",
+    "python_with語句.md",
     "使用Python的基本概念.md",
     "基本操作.md",
-    "使用openCV.md",
+    "Laplacian邊緣偵測.md",
     "OpenCV邊緣偵測.md",
     "Untitled.md",
-    "副檔名.md",
-    "conda用法.md",
-    "picture/conda_version.jpg",
-    "Markdown語法.md"
+    "副檔名.md"
   ]
 }

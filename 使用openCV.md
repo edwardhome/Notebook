@@ -5,7 +5,7 @@ OpenCV的全稱是Open Source Computer Vision Library，是一個跨平台的電
 <center>OpenCV的LOGO</center>
 OpenCV的應用其實很廣，在許多的 #程式設計 上均有OpenCV的蹤跡，其中近年來以 #python 最為熱門因此本文也將使用python進行使用與探討。
 
-在 #機器視覺 專案的開發中，OpenCV作為較大眾的開源庫，擁有了豐富的常用影象處理函式庫，採用C/C 語言編寫，可以執行在Linux/Windows/Mac等作業系統上，能夠快速的實現一些影象處理和識別的任務。此外，OpenCV還提供了Java、 #python 、 #cuda 等的使用介面、機器學習的基礎演算法呼叫，從而使得影象處理和影象分析變得更加易於上手，讓開發人員更多的精力花在演算法的設計上。
+在 #機器視覺 專案的開發中，OpenCV作為較大眾的開源庫，擁有了豐富的常用影象處理函式庫，採用C/C 語言編寫，可以執行在Linux/Windows/Mac等作業系統上，能夠快速的實現一些影象處理和識別的任務。此外，OpenCV還提供了Java、 [#python](%E4%BD%BF%E7%94%A8Python) 、 #cuda 等的使用介面、機器學習的基礎演算法呼叫，從而使得影象處理和影象分析變得更加易於上手，讓開發人員更多的精力花在演算法的設計上。
 
 ## 應用領域
 - 人機互動
