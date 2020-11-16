@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Laplacian邊緣偵測.md",
+            "file": "OpenCV邊緣偵測.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laplacian邊緣偵測.md"
+                "file": "OpenCV邊緣偵測.md"
               }
             }
           },
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laplacian邊緣偵測.md"
+                "file": "OpenCV邊緣偵測.md"
               }
             }
           }
@@ -86,10 +86,10 @@
     "width": 272
   },
   "lastOpenFiles": [
+    "OpenCV邊緣偵測.md",
     "Laplacian邊緣偵測.md",
     "使用openCV.md",
     "使用Python的基本概念.md",
-    "OpenCV邊緣偵測.md",
     "基本操作.md",
     "Untitled.md",
     "副檔名.md",
