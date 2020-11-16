@@ -135,6 +135,18 @@ cv2.destroyWindow('Title') #填入指定的視窗名稱
 cv2.imwrite('path/name.jpg',var)
 ```
 依序填入儲存位置，及陣列變數名稱，即可針對影像進行儲存
+這裡利用將圖片改為負片後存儲下來：
+```py
+Anegative = np.array(abs(255-A))
+cv2.imshow('negative',Anegative)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+cv2.imwrite('negative.png',Anegative)
+```
+其結果如下：
+<center><img src="https://github.com/edwardhome/Notebook/blob/main/opencv_test/negative.png?raw=true"></center>
+
+
 之後再利用其他深入的使用方式來介紹OpenCV。
 
 
