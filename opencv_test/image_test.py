@@ -23,7 +23,6 @@ cv2.destroyAllWindows()
 '''
 
 Anegative = np.array(abs(255-A))
-
 cv2.imshow('negative',Anegative)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
