@@ -86,7 +86,8 @@ print(C_size)
 ```
 這裡使用的圖片是大名鼎鼎的萊娜圖
 
-![萊娜圖](https://upload.wikimedia.org/wikipedia/zh/3/34/Lenna.jpg)
+<center> <img src="https://upload.wikimedia.org/wikipedia/zh/3/34/Lenna.jpg"> </center>
+
 從上述的程式碼中可以發現，由於檔案的[副檔名](副檔名)是`jpg`的格式，因此本身就已經移除透明度的資料，也因此這裡用`cv2.IMREAD_COLOR`與`cv2.IMREAD_UNCHANGED`的結果，最終的陣列大小都是一樣**(316×316×3)** 的大小，而使用`cv2.IMREAD_GRAYSCALE`的陣列大小就僅有二維，這是因為取值僅取得明度的部分，也因此每一個像素僅只有一個強度值，故最後大小呈現二維的陣列。
 
 值得一提的是利用OpenCV取得的陣列，一順序分別是`B` `G` `R`的資料，在陣列中分別表示`[:,:,0]` `[:,:,0]` `[:,:,2]` 的資料順序。
