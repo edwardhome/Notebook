@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "使用openCV.md",
-            "mode": "preview"
+            "file": "Laplacian邊緣偵測.md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "使用openCV.md"
+                "file": "Laplacian邊緣偵測.md"
               }
             }
           },
@@ -74,7 +74,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "使用openCV.md"
+                "file": "Laplacian邊緣偵測.md"
               }
             }
           }
@@ -86,15 +86,15 @@
     "width": 272
   },
   "lastOpenFiles": [
+    "Laplacian邊緣偵測.md",
     "使用openCV.md",
     "使用Python的基本概念.md",
-    "副檔名.md",
-    "conda用法.md",
+    "OpenCV邊緣偵測.md",
     "基本操作.md",
     "Untitled.md",
+    "副檔名.md",
+    "conda用法.md",
     "picture/conda_version.jpg",
-    "Markdown語法.md",
-    "python_import語句.md",
-    "python_with語句.md"
+    "Markdown語法.md"
   ]
 }
