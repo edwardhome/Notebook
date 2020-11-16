@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "argparse簡介.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -60,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "argparse簡介.md"
+              }
             }
           },
           {
@@ -68,7 +73,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "argparse簡介.md"
+              }
             }
           }
         ],
@@ -79,6 +86,7 @@
     "width": 272
   },
   "lastOpenFiles": [
+    "argparse簡介.md",
     "使用Python.md",
     "使用openCV.md",
     "conda用法.md",
@@ -87,7 +95,6 @@
     "基本操作.md",
     "Laplacian邊緣偵測.md",
     "OpenCV邊緣偵測.md",
-    "Untitled.md",
-    "副檔名.md"
+    "Untitled.md"
   ]
 }
