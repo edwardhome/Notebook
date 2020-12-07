@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6e1310e06f6343ad",
+        "id": "aa621df9f08e3658",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Laplacian邊緣偵測.md",
+            "file": "python_class語句.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#機器視覺"
+                "query": "tag:#機器視覺",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -64,7 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laplacian邊緣偵測.md"
+                "file": "python_class語句.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -74,27 +84,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laplacian邊緣偵測.md"
+                "file": "python_class語句.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 272
   },
   "lastOpenFiles": [
-    "Laplacian邊緣偵測.md",
+    "python_class語句.md",
+    "python_def語句.md",
+    "Markdown語法.md",
+    "使用Python.md",
+    "python_for語句.md",
+    "README.md",
+    "python_import語句.md",
     "OpenCV邊緣偵測.md",
     "argparse簡介.md",
-    "使用Python.md",
-    "使用openCV.md",
-    "conda用法.md",
-    "python_with語句.md",
-    "使用Python的基本概念.md",
-    "基本操作.md",
-    "Untitled.md"
+    "conda用法.md"
   ]
 }
