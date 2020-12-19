@@ -127,4 +127,22 @@ int main() {
 Markdown的Logo如下所示
 ![Markdown](https://markdown.tw/images/208x128.png "Markdown Logo")
 
+---
+## 數學式
+主要有兩種形式
+- \$ 行內公式 \$ 
+	- 行內公式：$F=ma$
+
+- \$\$ 獨立公式 \$\$ 
+	- 獨立公式如下：$$E = mc^2 $$
+### 上下標
+- 上標符號，符號 ^，ex: $m^2$
+- 下標符號，符號：_，ex: $H_2O$
+- 組合符號，符號：{}，ex:  $x_{12}$ 或 $x^{12}$
+
+如果要在左右兩邊都有上下標，可以用 `\sideset` 命令。
+
+$$ \sideset{^1_2}{^3_4}\bigotimes  $$
+[參考資料](https://blog.maxkit.com.tw/2020/02/markdown.html)
+
 #Markdown #筆記 
