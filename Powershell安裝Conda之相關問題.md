@@ -71,6 +71,7 @@ Import-Module posh-git
 Import-Module oh-my-posh 
 Set-Theme Paradox
 ```
+[一鍵安裝下載](http://nuueolab405.ddns.net:5000/sharing/WA7xiJDQT)
 
 另外，該文字使用了一般等寬字體沒有的文字因此建議修改終端機的文字字型，以利整體文字顯示正常喔。
 這裡推薦使用[**等距更紗黑體 TC**](https://github.com/be5invis/Sarasa-Gothic/releases/download/v0.16.1/sarasa-gothic-ttf-0.16.1.7z)，更換powershell的字型必須要在powershell打開後，右鍵點擊狀態列，選擇預設值，會出現一個新的頁籤，可以針對powershell內部顯示的部份進行調整，選擇所喜歡的字體後，便可以使用美美的終端機進行`python開發`。
