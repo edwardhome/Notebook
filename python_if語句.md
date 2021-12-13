@@ -1,3 +1,7 @@
+---
+tags: python, 陳述式
+---
+
 # Python的if用法
 
 `if` 是程式語言最常見的用法，主要用於條件判斷當條件成立時執行語句塊。經常與`elif`、`else`配合使用。
@@ -8,12 +12,11 @@ A = 0
 B = 1
 
 if A>B :
-	print('A大於B')
+    print('A大於B')
 elif A<B:
-	print('A小於B')
+    print('A小於B')
 else:
-	print('A等於B')
-
+    print('A等於B')
 ```
 
 其中，`>`、`<` 均為[比較運算子](python_比較運算子)，其出現結果為布林值
@@ -21,8 +24,10 @@ else:
 
 結果：
 
-	A小於B
-	
+```sh
+A小於B
+```
 
+## 流程控制
 
-#python #程式設計 #判斷式
+可以使用[流程控制](python_流程控制.md)的語句進行控制。
