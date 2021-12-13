@@ -89,15 +89,3 @@ tags: python, 程式設計
 |`,`|逗號|分隔運算式使用|
 |`.`|點|存取物件的方法(method)或是屬性(attribute)。[參見](python_class語句.md)|
 |`:`|冒號|陳述式的分隔符號。[if](python_if語句.md) [for](python_for語句.md) [while](python_def語句.md) [def](python_while語句.md) [try](python_try語句.md)|
-
-### 練習
-
-比較一下四則運算的差異，並且利用`python`進行一個公式解$ x = \frac {-b \pm \sqrt {b^2- 4ac}} {2a} $，針對下列一元二次方程式求其根。
-
-方程式：
-
-- $x^2+5x-24 = 0$
-- $3x^2+7x+5 = 0$
-- $x^2-14x+49 = 0$
-
->提示：可使用 `input()`函式，分別針對 $x^2$ 與 $x$ 的系數做輸入，在套入公式求解。
