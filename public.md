@@ -1,10 +1,12 @@
 ---
 tags: python
 ---
+# 聯合大學Python課程
 
-### 上課內容
+## 上課內容
 
 if 判斷式
+
 ```python=
 a = int(input("輸入A= "))
 b = 2
@@ -18,7 +20,6 @@ else:
 ```
 
 for 迴圈
-
 
 ```python=  
 for i in range(100):
@@ -36,6 +37,7 @@ print(type(df))
 ```
 
 繪圖練習
+
 ```python=
 import pandas as pd
 from matplotlib import pyplot as plt
