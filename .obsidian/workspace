@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0b44e4b226cb2dcd",
+        "id": "0b7ee74eba0a208e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "使用Python.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "使用Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "使用Python.md"
+              }
             }
           },
           {
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "使用Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,17 +108,17 @@
     "direction": "horizontal",
     "width": 272
   },
-  "active": "0b44e4b226cb2dcd",
+  "active": "0b7ee74eba0a208e",
   "lastOpenFiles": [
-    "python_class語句.md",
     "使用Python.md",
-    "python_比較運算子.md",
-    "python_import語句.md",
-    "python_for語句.md",
     "python_def語句.md",
-    "python_while語句.md",
-    "class_example/Pasted image 20201219162055.png",
     "使用openCV.md",
-    "Powershell安裝Conda之相關問題.md"
+    "picture/powershell_condalist.png",
+    "picture/conda_version.jpg",
+    "picture/指令.png",
+    "linux_embedded/Linux_embedded.md",
+    "class_example/Pasted image 20201219162055.png",
+    "class_example/Pasted image 20201219162811.png",
+    "python_class語句.md"
   ]
 }
