@@ -1,3 +1,7 @@
+---
+tags: python
+---
+
 ### 上課內容
 
 if 判斷式
@@ -32,7 +36,6 @@ print(type(df))
 ```
 
 繪圖練習
-
 ```python=
 import pandas as pd
 from matplotlib import pyplot as plt
@@ -47,5 +50,4 @@ ax2 = fig.add_subplot(212)
 ax.plot(df)
 ax2.plot(df2)
 plt.show()
-
 ```
