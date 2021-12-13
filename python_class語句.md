@@ -1,6 +1,6 @@
 # 類別
 
-在學習程式語言時，或多或少都有聽過物件導向程式設計(Object-oriented programming，簡稱OOP)，它是一個具有物件(Object)概念的開發方式，能夠提高軟體的重用性、擴充性及維護性，在開發大型的應用程式時更是被廣為使用，所以在現今多數的程式語言都有此種開發方式，[`Python`](使用python)當然也不例外。而要使用物件導向程式設計就必須對類別(Class)及物件(Object)等有一些基本的了解。其中`class`通常與[`def`](python_def語句)一起出現。
+在學習程式語言時，或多或少都有聽過物件導向程式設計(Object-oriented programming，簡稱OOP)，它是一個具有物件(Object)概念的開發方式，能夠提高軟體的重用性、擴充性及維護性，在開發大型的應用程式時更是被廣為使用，所以在現今多數的程式語言都有此種開發方式，[`Python`](./使用Python.md)當然也不例外。而要使用物件導向程式設計就必須對類別(Class)及物件(Object)等有一些基本的了解。其中`class`通常與[`def`](python_def語句.md)一起出現。
 
 ## 主要結構
 
@@ -26,14 +26,14 @@ class Computer:
 簡單來說，就是物件(Object)的藍圖(blueprint)。就像要生產一部汽車時，都會有設計圖，藉此可以知道此類汽車會有哪些特性及功能，類別(Class)就類似設計圖，會定義未來產生物件(Object)時所擁有的屬性(Attribute)及方法(Method)。
 
 而定義類別的語法如下：
-```py
+```python=
 class classname：
     statement
 ```
 依照命名方式，一般會讓*每個單字*的字首**大寫**表示，且不得使用底線**_**或是空白分隔單字。
 範例如下：
 
-```py
+```python=
 #範例1
 class Computer:
     def __init__(self, input1, input2):
@@ -41,6 +41,7 @@ class Computer:
 #範例2
 class MyComputer:
 ```
+
 ---
 ### 物件(Object)
 就是透過類別(Class)實際建立的實體，就像實際生產出來的汽車(例如：Mazda)。類別(Class)與物件(Object)的關係就像汽車設計圖與汽車實體。而建立物件(Object)的語法如下：

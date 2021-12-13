@@ -6,10 +6,12 @@
       {
         "id": "0b44e4b226cb2dcd",
         "type": "leaf",
-        "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "python_class語句.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,9 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "python_class語句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -79,26 +84,41 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "python_class語句.md"
+              }
+            }
+          },
+          {
+            "id": "b5ededa204f69fae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "python_class語句.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 272
   },
+  "active": "0b44e4b226cb2dcd",
   "lastOpenFiles": [
-    "Powershell安裝Conda之相關問題.md",
-    "python_比較運算子.md",
-    "picture/powershell_condalist.png",
-    "picture/powershell_noconda.png",
-    "Untitled.md",
-    "README.md",
-    "使用openCV.md",
+    "python_class語句.md",
     "使用Python.md",
-    "Markdown語法.md",
-    "conda用法.md"
+    "python_比較運算子.md",
+    "python_import語句.md",
+    "python_for語句.md",
+    "python_def語句.md",
+    "python_while語句.md",
+    "class_example/Pasted image 20201219162055.png",
+    "使用openCV.md",
+    "Powershell安裝Conda之相關問題.md"
   ]
 }
