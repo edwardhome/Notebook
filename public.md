@@ -10,7 +10,7 @@ tags: python
 [12/07上課內容](#1207上課內容)
 相關內容，均會在這裡同步更新，也方便各位同學下載範例程式碼。
 
-[課程連結](https://github.com/edwardhome/Notebook)
+[課程連結](https://github.com/NUUEO/class_test)
 
 ## 12/12上課內容
 
