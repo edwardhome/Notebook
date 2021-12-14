@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "public.md",
-            "mode": "source"
+            "file": "python_class語句.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 224
   },
   "right": {
     "id": "b1361b30c56a0173",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "public.md",
+                "file": "python_class語句.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "public.md"
+                "file": "python_class語句.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "public.md",
+                "file": "python_class語句.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,19 +106,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 100
   },
   "active": "343aecda8b5ed9f8",
   "lastOpenFiles": [
+    "python_class語句.md",
     "public.md",
-    "Powershell安裝Conda之相關問題.md",
-    "OpenCV邊緣偵測.md",
-    "openCV.md",
-    "副檔名.md",
     "python_import語句.md",
-    "python_with語句.md",
+    "python_流程控制.md",
+    "python_for語句.md",
+    "python_while語句.md",
     "python_try語句.md",
-    "python_def語句.md",
-    "python_for語句.md"
+    "python_運算子.md",
+    "使用Python.md",
+    "python_if語句.md"
   ]
 }
