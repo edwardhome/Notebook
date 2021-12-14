@@ -1,3 +1,5 @@
+
+
 # 利用Lapacian進行邊緣偵測
 在[邊緣偵測](OpenCV邊緣偵測)中提到，可以利用OpenCV對影像做出邊緣偵測的運算，以下利用[python](%E4%BD%BF%E7%94%A8Python)進行簡單的影像運算。
 
@@ -12,7 +14,7 @@
 	import numpy as np
 	import argparse
 	```
-	其中，[`argparse`](argparse簡介)是一個內建模組主要用來完成文字命令列的一些操作，這裡就不多做說明。
+	其中，[`argparse`](argparse.md)是一個內建模組主要用來完成文字命令列的一些操作，這裡就不多做說明。
 2. 利用[`def`](python_def語句)先行撰寫一個顯示模組，主要讓不同的圖片均可輸入並顯示
 	```python
 	def display(windowsName,img):

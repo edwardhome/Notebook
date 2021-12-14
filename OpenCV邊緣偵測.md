@@ -1,5 +1,10 @@
+---
+tags: python, import, OpenCV
+---
+
+
 # 邊緣偵測
-邊緣偵測（Edge detection）屬於機器視覺中最重要的步驟，因為要讓電腦準確的抓到影像的物體位置，需要使用大量的邊緣偵測運算，這點也是[OpenCV](使用OpenCV)中一個十分重要的功能。
+邊緣偵測（Edge detection）屬於機器視覺中最重要的步驟，因為要讓電腦準確的抓到影像的物體位置，需要使用大量的邊緣偵測運算，這點也是[OpenCV](openCV.md)中一個十分重要的功能。
 
 OpenCV提供三種邊緣檢測的方式來處理**Edge detection**分別是
 - [Laplacian](Laplacian邊緣偵測)（拉普拉斯算子）

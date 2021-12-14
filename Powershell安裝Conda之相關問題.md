@@ -1,5 +1,5 @@
 ---
-tags: conda,環境建立 
+tags: conda, 系統環境
 ---
 
 # 使用Window內建之Powershell

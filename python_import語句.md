@@ -1,5 +1,5 @@
 ---
-tags: python, 物件導向
+tags: python, 物件導向, import
 ---
 # import 的用法
 

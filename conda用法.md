@@ -1,3 +1,7 @@
+---
+tags: python, conda, 系統環境
+---
+
 # Conda 簡介
 
 開發 #python  專案時，最常遇見的問題就是不同專案可能會有不同的[`Python`](%E4%BD%BF%E7%94%A8Python)版本以及不同的`package`需要安裝，那麼在管理上就會是一個問題了。如果希望再電腦內快速佈署不同的方案或是版本套件等，那[Anaconda](https://www.anaconda.com/products/individual)的套件管理系統conda將會是值得使用的系統。

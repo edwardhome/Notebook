@@ -1,3 +1,7 @@
+---
+tags: python, import, OpenCV
+---
+
 # OpenCV 簡介
 OpenCV的全稱是Open Source Computer Vision Library，是一個跨平台的電腦視覺庫。OpenCV是由英特爾公司發起並參與開發，以BSD授權條款授權發行，可以在商業和研究領域中免費使用。
 <center> <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png"> 
@@ -88,7 +92,7 @@ print(C_size)
 
 <center> <img src="https://upload.wikimedia.org/wikipedia/zh/3/34/Lenna.jpg"> </center>
 
-從上述的程式碼中可以發現，由於檔案的[副檔名](副檔名)是`jpg`的格式，因此本身就已經移除透明度的資料，也因此這裡用`cv2.IMREAD_COLOR`與`cv2.IMREAD_UNCHANGED`的結果，最終的陣列大小都是一樣**(316×316×3)** 的大小，而使用`cv2.IMREAD_GRAYSCALE`的陣列大小就僅有二維，這是因為取值僅取得明度的部分，也因此每一個像素僅只有一個強度值，故最後大小呈現二維的陣列。
+從上述的程式碼中可以發現，由於檔案的副檔名是`jpg`的格式，因此本身就已經移除透明度的資料，也因此這裡用`cv2.IMREAD_COLOR`與`cv2.IMREAD_UNCHANGED`的結果，最終的陣列大小都是一樣**(316×316×3)** 的大小，而使用`cv2.IMREAD_GRAYSCALE`的陣列大小就僅有二維，這是因為取值僅取得明度的部分，也因此每一個像素僅只有一個強度值，故最後大小呈現二維的陣列。
 
 值得一提的是利用OpenCV取得的陣列，一順序分別是`B` `G` `R`的資料，在陣列中分別表示`[:,:,0]` `[:,:,0]` `[:,:,2]` 的資料順序。
 

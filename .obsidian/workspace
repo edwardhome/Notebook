@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0b7ee74eba0a208e",
+        "id": "343aecda8b5ed9f8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "使用Python.md",
-            "mode": "preview"
+            "file": "public.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "使用Python.md",
+                "file": "public.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "使用Python.md"
+                "file": "public.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "使用Python.md",
+                "file": "public.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,17 +108,17 @@
     "direction": "horizontal",
     "width": 272
   },
-  "active": "0b7ee74eba0a208e",
+  "active": "343aecda8b5ed9f8",
   "lastOpenFiles": [
-    "使用Python.md",
+    "public.md",
+    "Powershell安裝Conda之相關問題.md",
+    "OpenCV邊緣偵測.md",
+    "openCV.md",
+    "副檔名.md",
+    "python_import語句.md",
+    "python_with語句.md",
+    "python_try語句.md",
     "python_def語句.md",
-    "使用openCV.md",
-    "picture/powershell_condalist.png",
-    "picture/conda_version.jpg",
-    "picture/指令.png",
-    "linux_embedded/Linux_embedded.md",
-    "class_example/Pasted image 20201219162055.png",
-    "class_example/Pasted image 20201219162811.png",
-    "python_class語句.md"
+    "python_for語句.md"
   ]
 }
